@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pod+JscJPkTkxvu1Ywfqp0/0AxTok7eZAodqm1jCfcw=",
+  "Source": "RateLimitAspNetCoreDemo",
+  "BasePath": "_content/RateLimitAspNetCoreDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
